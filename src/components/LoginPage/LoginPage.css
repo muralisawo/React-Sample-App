@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90px;
+  height: 700px;
   background-color: #f9f9f9;
 }
 .sectionStyle {
@@ -25,7 +25,7 @@ section {
 .formContainer {
   padding: 1rem;
   background-color: #f3f3f3;
-  height: 300px;
+  height: 600px;
   width: 400px;
   border-radius: 10px;
   display: flex;
